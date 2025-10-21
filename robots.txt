@@ -1,1 +1,1 @@
-Sitemap: https://wishiwishi.github.io/ShayoriBose/sitemap.xml
+Sitemap: https://shayorib.github.io/ShayoriBose/sitemap.xml
