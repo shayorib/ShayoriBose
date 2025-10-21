@@ -3,7 +3,7 @@
 
 # wishiwishi's Website
 
-An engaging 1-3 sentence description of your lab.
+As a high school junior passionate about scientific innovation, I aspire to become an oncologist advancing cancer care through AI-driven research, wet-lab experimentation, and clinical translation. I aim to bridge computational discovery and hands-on science to develop data-informed, clinically relevant solutions that transform oncology and improve patient outcomes.
 
 {% include section.html %}
 
