@@ -5,6 +5,6 @@
 
   # wishiwishi's Website
 
-  Visit **[wishiwishi.github.io/ShayoriBose](https://wishiwishi.github.io/ShayoriBose)** 🚀
+  Visit **[shayorib.github.io/ShayoriBose](https://shayorib.github.io/ShayoriBose)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
