@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # wishiwishi's Website
+  # Shayori's Website
 
   Visit **[shayorib.github.io/ShayoriBose](https://shayorib.github.io/ShayoriBose)** 🚀
 
