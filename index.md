@@ -34,7 +34,7 @@ I am studying gene regulatory networks in pancreatic cancer at the Biocomputing 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Beyond academics, I actively engage in music, art, and Taekwondo, and dedicate time to volunteering, mentoring, and fundraising, which have strengthened my creativity, discipline, and commitment to making a positive impact in my community.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.hjygjhg
+My team is my strength.
 
 {%
   include button.html
