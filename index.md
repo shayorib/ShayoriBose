@@ -26,7 +26,7 @@ I am studying gene regulatory networks in pancreatic cancer at the Biocomputing 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research_image.png"
   link="research"
   title="My Research"
   text=text
