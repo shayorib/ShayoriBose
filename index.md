@@ -11,7 +11,7 @@ As a high school junior passionate about scientific innovation, I aspire to beco
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am studying gene regulatory networks in pancreatic cancer at the Biocomputing Lab, Marquette University. In this project, I analyze large-scale multi-omics datasets using R and Bioconductor to find important molecular interactions that may drive cancer growth. This work has helped me build strong skills in bioinformatics and data analysis, and improved my understanding of how computational tools can be used to study complex biological systems. My goal is to use these approaches to identify biomarkers and treatment targets that can support more personalized and effective cancer therapies.
 
 {%
   include button.html
