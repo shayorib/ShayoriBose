@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Title : XXXXX
+Title : Deciphering Pancreatic Cancer Secrets: Unveiling Micro-RNA and DNA Damage Networks Through Multi-Omics and Machine Learning
 
 {% include section.html %}
 
